@@ -1,0 +1,3 @@
+﻿  LW4_8.cpp
+E:\game2\С++\LW4_8\LW4_8\LW4_8.cpp(77,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LW4_8.vcxproj -> E:\game2\С++\LW4_8\x64\Debug\LW4_8.exe
